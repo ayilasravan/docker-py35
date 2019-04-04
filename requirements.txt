@@ -7,3 +7,4 @@ Keras==2.2.4
 numpy==1.14.3
 scikit_learn==0.20.0
 msgpack==0.5.6
+nltk==3.3
