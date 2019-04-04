@@ -11,6 +11,7 @@ Docker image with following dependencies
 7. numpy==1.14.3
 8. scikit_learn==0.20.1
 9. msgpack==0.5.6
+10. nltk==3.3
 
 ## Build command
 
